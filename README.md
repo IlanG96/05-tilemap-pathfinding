@@ -1,5 +1,7 @@
 # Unity week 5: Two-dimensional scene-building and path-finding
 
+* [play on itch](https://ilang.itch.io/shiporsheep)
+
 A project with step-by-step scenes illustrating how to construct a 2D scene using tilemaps,
 and how to do path-finding using the BFS algorithm.
 
