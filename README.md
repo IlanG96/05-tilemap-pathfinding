@@ -6,6 +6,8 @@ and how to do path-finding using the BFS algorithm.
 Text explanations are available
 [here](https://github.com/gamedev-at-ariel/gamedev-5782) in folder 07.
 
+* [play 100BFS on itch](https://ilang.itch.io/shiporsheep)
+* [play sheepOrShip on itch](https://ilang.itch.io/shiporsheep2)
 
 ## Cloning
 
